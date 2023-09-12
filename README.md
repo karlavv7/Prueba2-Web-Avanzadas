@@ -1,4 +1,5 @@
 # Prueba2-Web-Avanzadas
+### Karla Vivas
 ## Introducción a desarrollo de SPA con React
 ### Conceptos básicos
 Es una biblioteca de JavaScript que se utiliza para construir interfaces de usuario las cuales se componen de componentes reutilizables. Es una SPA, por lo cual, el contenido de la página se carga directamente desde los componentes de React. En la mayoría de casos utiliza la sintaxis JSX (JavaScript XML), que es una extensión de la sintaxis de JavaScript que elimina la necesidad de interactuar con el DOM sin tener que utilizar los métodos de manipulación del DOM.
